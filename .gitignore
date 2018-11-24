@@ -1,0 +1,12 @@
+.vs/
+bower_components/
+node_modules/
+
+.cache
+.DS_Store
+dist
+package-lock.json
+
+#Exclude tsc generated files
+js/*.map
+js/ts.js
